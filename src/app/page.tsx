@@ -8,7 +8,7 @@ export default function Home() {
     { name: "Radhika ladha", regNo: "22BCI0087" },
     { name: "M.Sri Pranav", regNo: "22BCI0088" },
     { name: "Nalagatla Sathish", regNo: "22BCI0094" },
-    { name: "Sibhi kishore", regNo: "22BCI0074" },
+    { name: "Ayush Shukla", regNo: "22BCI0027" },
   ];
 
    const features = [
